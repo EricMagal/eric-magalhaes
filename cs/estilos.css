@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image:url(../images/background.jpg);
+	background-position:top;
+	
+}
+
+#div_mae {
+	width:1080px;
+	height:1069px;
+	margin: 0 auto;
+	border:#0F0;
+
+}
+
+#topo {
+	width:960px;
+	height:200px;
+	background-image:url(../images/index_01.png);
+	
+}
+
+#barra_menu {
+	width:1000px;
+	height:90px;
+	
+	
+}
+
+.bt {
+	width:114px;
+	height:90px;
+	float:left;
+	margin-left:8px;
+	
+	
+}
+
+.bt2 {
+	width:17px;
+	height:90px;
+	float:left;
+	background-image:url(../images/index_18.png);
+	
+}
+.bt3 {
+	width:197px;
+	height:90px;
+	float:left;
+	
+}
+
+#barra_2 {
+	width:940px;
+	height:220px;
+	margin-top:130px;
+	
+	
+}
+
+.bt4 {
+	width:187px;
+	height:220px;
+	float:left;
+
+}
+
+
+.btff {
+	background-image:url(../images/windows-7_2840_1600x1200.png);
+	width:1278px;
+	height:303px;
+	
+}
+
+#websaitc {
+	width:787px;
+	height:23px;
+	background-image:url(../images/Sem%20T%C3%ADtulo-2.png);
+	margin-left:80px;
+	margin-top:80px;
+	
+	
+	
+}
+	
+	
+	
+.trabalhe {
+	margin-left:15px;
+	
+	
+}
+	
+.btpros {
+	width:135px;
+	height:60px;
+	float:left;
+	
+}
+
+#arvore {
+	width:400px;
+	height:400px;
+	background-image:url(../images/a983ca46033eda7c3c15b8d107d55429.png);
+	float:right;
+	margin-top:62px;
+}
+
+.estilo {
+	margin-top:100px;
+	width:650px;
+	height:140px;
+	margin-left:10px;
+	
+	
+}
+
+
+.btporti {
+	width:180px;
+	height:53px;
+	margin-top:70px;
+	margin-left:50px;
+	
+	
+	
+	
+	
+}
+
+#serviços {
+	width:545px;
+	height:768px;
+	background-image:url(../images/aaaaa.png);
+	margin-top:8px;
+	margin-left:200px;
+	border:groove;
+
+	
